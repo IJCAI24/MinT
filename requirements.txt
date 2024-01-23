@@ -1,0 +1,64 @@
+grpcio==1.59.2
+grpcio-status==1.59.2
+huggingface-hub==0.10.1
+idna==3.4
+importlib-metadata==5.0.0
+ipdb==0.13.4
+ipython==7.34.0
+jedi==0.18.1
+joblib==1.2.0
+jsonpickle==1.5.2
+MarkupSafe==2.1.1
+mkl-fft==1.3.1
+mkl-random @ file:///tmp/build/80754af9/mkl_random_1626179032232/work
+mkl-service==2.4.0
+multidict==6.0.2
+munch==2.5.0
+munkres==1.1.4
+numexpr @ file:///croot/numexpr_1668713893690/work
+numpy @ file:///opt/conda/conda-bld/numpy_and_numpy_base_1653915516269/work
+oauthlib==3.2.2
+packaging @ file:///croot/packaging_1671697413597/work
+pandas==1.1.5
+parso==0.8.3
+pexpect==4.8.0
+pickleshare==0.7.5
+Pillow==9.4.0
+ply==3.11
+prompt-toolkit==3.0.31
+proto-plus==1.22.3
+protobuf==4.24.4
+ptyprocess==0.7.0
+py-cpuinfo==8.0.0
+pyarrow==2.0.0
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytorch-lightning==1.1.4
+pytz @ file:///croot/pytz_1671697431263/work
+PyYAML==6.0
+regex==2022.9.13
+requests==2.31.0
+requests-oauthlib==1.3.1
+rsa==4.9
+sacred==0.8.2
+sacremoses==0.0.53
+scikit-learn @ file:///tmp/build/80754af9/scikit-learn_1642601761909/work
+scipy @ file:///opt/conda/conda-bld/scipy_1661390393401/work
+sentencepiece==0.1.91
+sip @ file:///tmp/abs_44cd77b_pu/croots/recipe/sip_1659012365470/work
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+smart-open==6.4.0
+smmap==5.0.0
+tensorboard==2.10.1
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.1
+termcolor==2.3.0
+threadpoolctl @ file:///Users/ktietz/demo/mc3/conda-bld/threadpoolctl_1629802263681/work
+timm @ git+https://github.com/rwightman/pytorch-image-models.git@475ecdfa3d369b6d482287f2467ce101ce5c276c
+tokenizers==0.9.4
+toml @ file:///tmp/build/80754af9/toml_1616166611790/work
+torch==1.7.0
+torchaudio==0.7.0a0+ac17b64
+torchvision==0.8.0
+tornado @ file:///opt/conda/conda-bld/tornado_1662061693373/work
+tqdm==4.56.0
+transformers==4.2.1
